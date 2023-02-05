@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dandelion
+  - Cave
+  - CaveSign
+  - GladeSign
+  - ForestSign
+  - BridgeSign
+  - Billboard
+  - LockedDoor
+  - ForestBorder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainGround
+    uniqueID: 1475209423
+    locked: 0
+  - name: AboveGround
+    uniqueID: 3864405107
+    locked: 0
+  - name: Player
+    uniqueID: 579435327
+    locked: 0
+  - name: Foreground
+    uniqueID: 4227475021
+    locked: 0
